@@ -119,7 +119,7 @@ GEM
       railties (>= 3.0.0)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.3)
+    ffi (1.11.3)
     formatador (0.2.5)
     formtastic (2.3.0.rc3)
       actionpack (>= 3.0)
